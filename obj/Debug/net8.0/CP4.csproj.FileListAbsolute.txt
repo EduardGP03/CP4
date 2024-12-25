@@ -1,0 +1,14 @@
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\bin\Debug\net8.0\CP4.exe
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\bin\Debug\net8.0\CP4.deps.json
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\bin\Debug\net8.0\CP4.runtimeconfig.json
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\bin\Debug\net8.0\CP4.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\bin\Debug\net8.0\CP4.pdb
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.AssemblyInfoInputs.cache
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.AssemblyInfo.cs
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.csproj.CoreCompileInputs.cache
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\refint\CP4.dll
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.pdb
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\CP4.genruntimeconfig.cache
+C:\Users\Zorro\Desktop\University\Programming\Practical Class\CP4\obj\Debug\net8.0\ref\CP4.dll
